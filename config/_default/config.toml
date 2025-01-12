@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://odoublewen.github.io/instantclassicmfg"
+baseurl = "https://instantclassicmfg.com"
 languageCode = "en-us"
 title = "Instant Classic Mfg"
 
