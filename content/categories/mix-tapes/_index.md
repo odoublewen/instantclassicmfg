@@ -1,6 +1,6 @@
 ---
-title: Example Category
-description: A description of this category
+title: Mix Tapes
+description: Mark's Mix Tapes
 image:
 
 # Badge style
