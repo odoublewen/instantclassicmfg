@@ -11,7 +11,6 @@ categories:
     - Mix Tapes
 ---
 
-## Liner
 ![liner.jpg](liner.jpg)
 
 ## Side A
@@ -39,5 +38,4 @@ categories:
 - Muswell Hillbilly - Kinks
 - Aja - Steely Dan
 
-## Cassette
 ![cassette.jpg](cassette.jpg)
