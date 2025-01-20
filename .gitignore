@@ -3,3 +3,4 @@ resources
 .hugo_build.lock
 .idea
 assets/jsconfig.json
+.DS_Store

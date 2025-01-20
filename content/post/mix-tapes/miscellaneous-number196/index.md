@@ -11,13 +11,13 @@ categories:
     - Mix Tapes
 ---
 
-![liner.jpg](liner.jpg)
+![](liner.jpg)
 
 ## Side A
 - The Road to Hell - Chris Rea
 - A Hard Rain's Gonna Fall - Edie Brikell
 - What A Wonderful World - David Bromberg
-- Roll Another - Number 1
+- Roll Another Number - Neil Young
 - Albuquerque - Neil Young
 - Bella - Carlos Santana
 - Cocaine - Jackson Browne
@@ -38,4 +38,4 @@ categories:
 - Crime in the City - Neil Young
 - Into the Great Wide Open - Tom Petty
 
-![cassette.jpg](cassette.jpg)
+![](cassette.jpg)

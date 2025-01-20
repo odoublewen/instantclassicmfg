@@ -11,7 +11,7 @@ categories:
     - Mix Tapes
 ---
 
-![liner.jpg](liner.jpg)
+![](liner.jpg)
 
 ## Side A
 - Four Strong Winds - Ian and Sylvia
@@ -27,7 +27,7 @@ categories:
 
 ## Side B
 - Down the Line - Gerry Rafferty
-- Baker Street - "
+- Baker Street - Gerry Rafferty
 - Greasy Heart - Jefferson Airplane
 - Don't Cry No Tears - Neil Young
 - Peg - Steely Dan
@@ -38,4 +38,4 @@ categories:
 - Muswell Hillbilly - Kinks
 - Aja - Steely Dan
 
-![cassette.jpg](cassette.jpg)
+![](cassette.jpg)
