@@ -1,7 +1,7 @@
 ---
 title: "Miscellaneous No. 196"
 description: 
-date: 2025-01-12T11:05:01-08:00
+date: 2025-01-19
 image: 
 math: 
 license: 
@@ -12,6 +12,12 @@ categories:
 ---
 
 ![](liner.jpg)
+
+Listening to Marvin Gaye sing the National Anthem this evening --
+the eve of Martin Luther King, Jr. Day, and, perversely, also the
+inauguration of President Trump's second term -- I cannot help but
+mourn America's lost potential.  It seemed we were so close -- at
+least I believed so, in the naivety of my youth.
 
 ## Side A
 - The Road to Hell - Chris Rea

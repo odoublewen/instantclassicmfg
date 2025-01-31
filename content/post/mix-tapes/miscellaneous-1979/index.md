@@ -1,7 +1,7 @@
 ---
 title: "Miscellaneous 1979"
 description: 
-date: 2025-01-12T11:05:01-08:00
+date: 2025-01-12
 image: 
 math: 
 license: 
