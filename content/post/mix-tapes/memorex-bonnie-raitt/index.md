@@ -10,7 +10,7 @@ cover:
   relative: true
 ---
 
-I was raised on Bonnie Raitt and Van Morrison (plus healthy doses of Bach and Vivaldi).
+Growing up, Bonnie Raitt was a staple of my musical diet.  Along with Willie Nelson, Van Morrison, Vivaldi, etc.
 
 ## Side A
 - Give it Up or Let Me Go
