@@ -1,17 +1,10 @@
 ---
 title: "Blast off... / Decidedly more calm"
-description: 
 date: 2025-01-30
-image: 
-math: 
-license: 
-hidden: false
-comments: true
-categories:
-    - Mix Tapes
+categories: [tapes]
 ---
 
-![](liner.jpg)
+![Liner](liner.jpg)
 
 ## Side A
 - Impressed - Charlie Sexton

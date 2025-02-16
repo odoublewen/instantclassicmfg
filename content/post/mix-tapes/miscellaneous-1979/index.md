@@ -1,14 +1,7 @@
 ---
 title: "Miscellaneous 1979"
-description: 
 date: 2025-01-12
-image: 
-math: 
-license: 
-hidden: false
-comments: true
-categories:
-    - Mix Tapes
+categories: [tapes]
 ---
 
 ![](liner.jpg)
@@ -37,5 +30,3 @@ categories:
 - Till the Rivers All Run Dry - Townshend & Lane
 - Muswell Hillbilly - Kinks
 - Aja - Steely Dan
-
-![](cassette.jpg)

@@ -1,14 +1,7 @@
 ---
 title: "Miscellaneous No. 196"
-description: 
 date: 2025-01-19
-image: 
-math: 
-license: 
-hidden: false
-comments: true
-categories:
-    - Mix Tapes
+categories: [tapes]
 ---
 
 ![](liner.jpg)

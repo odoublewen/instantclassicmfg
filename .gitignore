@@ -4,3 +4,4 @@ resources
 .idea
 assets/jsconfig.json
 .DS_Store
+.vscode
