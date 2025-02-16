@@ -29,7 +29,7 @@ categories: [tapes]
 - Blue Velvet - Tony Bennett
 - Where Did Our Love Go - Soft Cell
 - Send Me Some Loving - Chuck Price
-- To Know Him - Dolly Parton, Emmylou Harris, and Linda Ronstadt
+- To Know Him - Dolly Parton, Emmylou Harris and Linda Ronstadt
 - Sailfish Evening - Ry Cooder
 - Don't Get Me Wrong - The Pretenders
 
