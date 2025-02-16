@@ -1,10 +1,14 @@
 ---
 title: "Miscellaneous 1979"
 date: 2025-01-12
-categories: [tapes]
+categories: [mix tapes]
+tags: [1970s]
+cover:
+  image: "liner.jpg"
+  alt: ""
+  caption: "Miscellaneous 1979"
+  relative: true
 ---
-
-![](liner.jpg)
 
 ## Side A
 - Four Strong Winds - Ian and Sylvia

@@ -1,10 +1,14 @@
 ---
 title: "Blast off... / Decidedly more calm"
 date: 2025-01-30
-categories: [tapes]
+categories: [mix tapes]
+tags: [1980s]
+cover:
+  image: "liner.jpg"
+  alt: ""
+  caption: "Blast off... / Decidedly more calm"
+  relative: true
 ---
-
-![Liner](liner.jpg)
 
 ## Side A
 - Impressed - Charlie Sexton

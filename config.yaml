@@ -1,12 +1,14 @@
 baseURL: "https://instantclassicmfg.com/"
 title: Instant Classic Mfg.
-paginate: 10
 theme: PaperMod
 
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
+
+pagination:
+  pagerSize: 10
 
 minify:
   disableXML: true
@@ -91,9 +93,11 @@ params:
 #      SiteVerificationTag: "XYZabc"
 
   cover:
-    hidden: true # hide everywhere but not in structured data
-    hiddenInList: true # hide on list pages and home
-    hiddenInSingle: true # hide on single page
+    hidden: false # hide everywhere but not in structured data
+    hiddenInList: false # hide on list pages and home
+    hiddenInSingle: false # hide on single page
+    responsiveImages: true
+    linkFullImages: true
 
 #  editPost:
 #    URL: "https://github.com/<path_to_repo>/content"

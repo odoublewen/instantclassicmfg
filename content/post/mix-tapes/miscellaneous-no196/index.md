@@ -1,16 +1,20 @@
 ---
 title: "Miscellaneous No. 196"
 date: 2025-01-19
-categories: [tapes]
+categories: [mix tapes]
+tags: [1990s]
+cover:
+  image: "liner.jpg"
+  alt: ""
+  caption: "Miscellaneous No. 196"
+  relative: true
 ---
-
-![](liner.jpg)
 
 Listening to Marvin Gaye sing the National Anthem this evening --
 the eve of Martin Luther King, Jr. Day, and, perversely, also the
 inauguration of President Trump's second term -- I cannot help but
 mourn America's lost potential.  It seemed we were so close -- at
-least I believed so, in the naivety of my youth.
+least I believed so, in my youthful naivety.
 
 ## Side A
 - The Road to Hell - Chris Rea
