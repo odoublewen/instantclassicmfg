@@ -1,26 +1,18 @@
-
-{{/* Add pages and page resources. */}}
 {{ range .Site.Data.mix_tapes }}
-
-  {{/* Add page. */}}
-  {{ $side_a := delimit .side_a "\n* " }}
-  {{ $side_b := delimit .side_b "\n* " }}
-  {{ $markdown := fmt.Printf "%s\n## Side A\n* %s\n## Side B\n* %s\n" .comment $side_a $side_b }}
-  {{ $content := dict "mediaType" "text/markdown" "value" $markdown }}
-  {{ $tape_img := fmt.Printf "/images/mix-tapes/%d/liner.jpg" .id }}
-  {{ $cover := dict "image" $tape_img "caption" .title "relative" false }}
-  {{ $params := dict "cover" $cover "tags" .tags "categories" "mix tapes" }}
-  {{ $path := urls.URLize .title }}
-  {{ $dates := dict "date" (time.AsTime .date) }}
+  {{ $params := dict
+    "cover" (dict
+        "image" (fmt.Printf "/images/mix-tapes/%d/liner.jpg" .id)
+        "caption" .title
+      )
+    "tags" .tags
+    "categories" "mix tapes"
+    "data" .
+  }}
   {{ $page := dict
     "title" .title
-    "path" $path
-    "content" $content
-    "dates" $dates
-    "categories" "mix tapes"
+    "path" (urls.URLize .title)
+    "dates" (dict "date" (time.AsTime .date))
     "params" $params
   }}
   {{ $.AddPage $page }}
-
-
 {{ end }}
