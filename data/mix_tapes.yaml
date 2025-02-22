@@ -1,8 +1,8 @@
 - id: 0
-  title: "Miscellaneous 1979"
+  title: "Miscellaneous [1979]"
   artist: various
   date: 2025-01-12
-  tags: [1970s]
+  tags: [1970s, rock]
   comment: ""
   side_a:
     - Four Strong Winds - Ian and Sylvia
@@ -31,7 +31,7 @@
 - id: 1
   title: "Miscellaneous No. 196"
   date: 2025-01-19
-  tags: [1990s]
+  tags: [1990s, rock]
   comment: >
     Listening to Marvin Gaye sing the National Anthem this evening --
     the eve of Martin Luther King, Jr. Day, and, perversely, also the
@@ -66,7 +66,7 @@
   title: "Blast off... | Decidedly more calm"
   artist: various
   date: 2025-01-30
-  tags: [1980s]
+  tags: [1980s, rock]
   comment: ""
   side_a:
     - Impressed - Charlie Sexton
@@ -98,7 +98,7 @@
   title: "(MEMOREX) Bonnie Raitt"
   artist: Bonnie Raitt
   date: 2025-02-16
-  tags: [1980s]
+  tags: [1980s, soul]
   comment: > 
     Growing up, Bonnie Raitt was a staple of my musical diet.  Along with Willie Nelson, Van Morrison, Vivaldi, etc.
   side_a:
@@ -132,7 +132,7 @@
   title: "Redone Originals No. 5"
   artist: various
   date: 2025-02-16
-  tags: [1990s]
+  tags: [1990s, covers]
   comment: ""
   side_a:
     - Diamonds & Rust - Judas Priest
@@ -162,3 +162,27 @@
     - Golden Slumbers - Jackson Browne and Jennifer Warnes
     - To Know Him Is To Love Him - Dolly Parton, Linda Ronstadt, Emmylou Harris
     - Love Me Two Times - Joan Jett
+
+- id: 5
+  title: "Blues [4-2000]"
+  artist: various
+  date: 2025-02-22
+  tags: [2000s, blues]
+  comment: ""
+  side_a:
+    - Big Time Operator - Van Morrison
+    - Lonely Avenue - Van Morrison
+    - Oh Lord Don't Let Them Drop a Bomb
+    - Morning Has Broken - Cat Stevens
+    - Solitude - Sathima Bea Benjamin
+    - I Can't Quit You - Little Milton
+    - Back Stabbers - John Lee Hooker
+    - Highway 13 - John Lee Hooker
+  side_b:
+    - That's Why I'm Crying - Koko Taylor
+    - Rain - Little Charlie
+    - Full Moon on Main Street - Kinsey Report
+    - Blues After Hours - Pinetop Perkins
+    - Blues Lover - Bob Margolin
+    - Sky Is Crying - Sonny Boy Williamson
+    - Love, Life and Money - Johnny Winter
