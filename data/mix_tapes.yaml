@@ -1,0 +1,164 @@
+- id: 0
+  title: "Miscellaneous 1979"
+  artist: various
+  date: 2025-01-12
+  tags: [1970s]
+  comment: ""
+  side_a:
+    - Four Strong Winds - Ian and Sylvia
+    - Miss You - Rolling Stones
+    - Heart of Glass - Blondie
+    - Celluloid Heroes - Kinks
+    - Looking for a Love - Neil Young
+    - Annie - Townshend & Lane
+    - California Child - J.C. Young
+    - Dream of the Archer - Heart
+    - Bloody Mary Morning - Willie Nelson
+    - Just Another Love Song - Allman Bros.
+  side_b:
+    - Down the Line - Gerry Rafferty
+    - Baker Street - Gerry Rafferty
+    - Greasy Heart - Jefferson Airplane
+    - Don't Cry No Tears - Neil Young
+    - Peg - Steely Dan
+    - Little Queen - Heart
+    - Barstool Blues - Neil Young
+    - Will Anything Happen - Blondie
+    - Till the Rivers All Run Dry - Townshend & Lane
+    - Muswell Hillbilly - Kinks
+    - Aja - Steely Dan
+
+- id: 1
+  title: "Miscellaneous No. 196"
+  date: 2025-01-19
+  tags: [1990s]
+  comment: >
+    Listening to Marvin Gaye sing the National Anthem this evening --
+    the eve of Martin Luther King, Jr. Day, and, perversely, also the
+    inauguration of President Trump's second term -- I cannot help but
+    mourn America's lost potential.  It seemed we were so close -- at
+    least I believed so, in my youthful naivety.
+  side_a:
+    - The Road to Hell - Chris Rea
+    - A Hard Rain's Gonna Fall - Edie Brikell
+    - What A Wonderful World - David Bromberg
+    - Roll Another Number - Neil Young
+    - Albuquerque - Neil Young
+    - Bella - Carlos Santana
+    - Cocaine - Jackson Browne
+    - Stay - David Lindley
+    - It Never Rains - Dire Straits
+    - Around the Horn - Souled American
+    - Hold Back the Tears - Souled American
+  side_b:
+    - Star Spangled Banner - Marvin Gaye
+    - Help the Children - MC Hammer
+    - Past the Point of Rescue - Mary Black
+    - Fat Valley of Pain - Mary Black
+    - I Say a Little Prayer - Mary Black
+    - Thunderstruck - AC/DC
+    - Days That Used to - Neil Young
+    - Nothing Compares 2U - Sinead O'Connor
+    - Crime in the City - Neil Young
+    - Into the Great Wide Open - Tom Petty
+
+- id: 2
+  title: "Blast off... | Decidedly more calm"
+  artist: various
+  date: 2025-01-30
+  tags: [1980s]
+  comment: ""
+  side_a:
+    - Impressed - Charlie Sexton
+    - Turning Japanese - Vapors
+    - To Be A Lover - Billy Idol
+    - Shake Your Hips - Rolling Stones
+    - Graceland - Paul Simon
+    - Crumblin' Down - J. Mellencamp
+    - Real Wild Child - Iggy Pop
+    - Tear It Up - The Cramps
+    - Bad Reputation - Joan Jett
+    - So Long - Blasters
+    - Love Struck Baby - Stevie Ray Vaughn
+    - Let's Go Go Go - George Thorogood
+  side_b:
+    - Spanish Eyes - Van Morrison
+    - Bird on a Wire - Jennifer Warnes
+    - The Way It Is - Bruce Hornsby
+    - Sweetest Taboo - Sade
+    - Little Lies - Fleetwood Mac
+    - Blue Velvet - Tony Bennett
+    - Where Did Our Love Go - Soft Cell
+    - Send Me Some Loving - Chuck Price
+    - To Know Him - Dolly Parton, Emmylou Harris and Linda Ronstadt
+    - Sailfish Evening - Ry Cooder
+    - Don't Get Me Wrong - The Pretenders
+
+- id: 3
+  title: "(MEMOREX) Bonnie Raitt"
+  artist: Bonnie Raitt
+  date: 2025-02-16
+  tags: [1980s]
+  comment: > 
+    Growing up, Bonnie Raitt was a staple of my musical diet.  Along with Willie Nelson, Van Morrison, Vivaldi, etc.
+  side_a:
+    - Give it Up or Let Me Go
+    - I Know
+    - Love Me Like A Man
+    - Nothing Seems To Matter
+    - About To Make Me Leave Home
+    - Runaway
+    - Louise
+    - Angle From Montgomery
+    - You Gotta Know How
+    - You Told Me Baby
+    - Love Has No Pride
+    - You're Gonna Get What's Coming
+  side_b:
+    - Wild For My Baby
+    - Bluebird
+    - Mighty Tight Woman
+    - Thank You
+    - Finest Lovin' Man
+    - Any Day Woman
+    - Big Road
+    - Walking Blues
+    - Danger Heartbreak
+    - Since I Fell For You
+    - I Ain't Blue
+    - Woman Be Wise
+
+- id: 4
+  title: "Redone Originals No. 5"
+  artist: various
+  date: 2025-02-16
+  tags: [1990s]
+  comment: ""
+  side_a:
+    - Diamonds & Rust - Judas Priest
+    - I'm Movin' On - Ray Charles
+    - Whole Lotta Shakin - Ricky Nelson
+    - Time Has Come Today - Joan Jett
+    - Wild Thing - Joan Jett
+    - Have I Told You Lately - Van Morrison
+    - Well All Right - Blind Faith
+    - When I Paint My Masterpiece - The Band
+    - Rock Me On The Water - Brewer & Shipley
+    - My Creole Belle - Arlo Guthrie
+    - White Line Fever - The Flying Burrito Brothers
+    - All Of Me - Willie Nelson
+    - We'll Meet Again - The Byrds
+    - Everybody's Talking - Lena Horne
+  side_b:
+    - Love In Vain - B. Brozman
+    - Radar Love - White Lion
+    - Mother's Little Helper - Tesla
+    - Stand By Your Man - Lyle Lovette
+    - Save the Last Dance for Me - David Bromberg
+    - Rose Garden - K.D. Lang
+    - This Old Man - Bob Dylan
+    - Getting To Know You - James Taylor
+    - Good Night My Love - Paula Abdul
+    - Golden Slumbers - Jackson Browne and Jennifer Warnes
+    - To Know Him Is To Love Him - Dolly Parton, Linda Ronstadt, Emmylou Harris
+    - Love Me Two Times - Joan Jett
