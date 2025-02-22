@@ -172,7 +172,7 @@
   side_a:
     - Big Time Operator - Van Morrison
     - Lonely Avenue - Van Morrison
-    - Oh Lord Don't Let Them Drop a Bomb
+    - Oh Lord Don't Let Them Drop That Atomic Bomb On Me - Robbie Robertson
     - Morning Has Broken - Cat Stevens
     - Solitude - Sathima Bea Benjamin
     - I Can't Quit You - Little Milton
@@ -186,3 +186,35 @@
     - Blues Lover - Bob Margolin
     - Sky Is Crying - Sonny Boy Williamson
     - Love, Life and Money - Johnny Winter
+
+- id: 6
+  title: "Country & Western #12"
+  artist: various
+  date: 2025-02-22
+  tags: [1980s, country and western]
+  comment: ""
+  side_a:
+    - Right or Wrong - Rosanne Cash
+    - Take Me - Rosanne Cash
+    - Better Start - Rosanne Cash
+    - No Memories - Rosanne Cash
+    - Couldn't Do Nothin - Rosanne Cash
+    - Seeing's Believing - Rosanne Cash
+    - Big River - Rosanne Cash
+    - Anybody's Darlin - Rosanne Cash
+    - Man Smart - Rosanne Cash
+    - This Has Happened Before - Rosanne Cash
+    - Life Fades Away - Roy Orbison
+    - Blue Side of Town - Rosie Flores
+  side_b:
+    - Somewhere Tonight - Highway 10
+    - Heaven or Hell - Waylon Jennings and Willie Nelson
+    - Me & Paul - Willie Nelson
+    - Good Hearted Woman - Willie Nelson
+    - Cry - Janie Fricke
+    - I'll Need Someone - Janie Fricke
+    - Heart Trouble - Steve Wariner
+    - Going Through Motions - Janie Fricke
+    - Pride - Janie Fricke
+    - Right or Wrong - George Strait
+    - Let's Fall to Pieces Together - George Strait
