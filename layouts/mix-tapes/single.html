@@ -35,8 +35,13 @@
   {{- end }}
 
   <div class="post-content">
-    {{- if (.Params.data.comment) }}
+
+    {{- if .Params.data.comment }}
     <p>{{- .Params.data.comment }}</p>
+    {{- end }}
+
+    {{- if .Params.data.artist }}
+    <p><strong>Album artist:</strong> {{ .Params.data.artist }}</p>
     {{- end }}
 
     <h2>Side A<a hidden class="anchor" aria-hidden="true" href="#side-a">#</a></h2>
