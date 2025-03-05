@@ -1,7 +1,4 @@
-import json
-
 from icm.spotify import spotify_auth
-from urllib.parse import quote
 
 from logging import getLogger
 
@@ -53,4 +50,3 @@ class MixTapeBuilder:
                 LOG.info("Skipping mix tape {id}: {title} (already has playlist {spotify_playlist}".format(**tape))
                 continue
             self._process_mix_tape(tape)
-            break
