@@ -58,13 +58,13 @@
       {{- end }}
     </ul>
 
-    {{- if .Params.data.spotify_playlist }}
-    <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/{{- .Params.data.spotify_playlist }}?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-    {{- end }}
-
     <a href="/images/mix-tapes/{{- .Params.data.id }}/cassette.jpg" target=_blank rel="noopener noreferrer">
       <img loading=lazy src="/images/mix-tapes/{{- .Params.data.id }}/cassette.jpeg">
     </a>
+
+    {{- if .Params.data.spotify_playlist }}
+    <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/{{- .Params.data.spotify_playlist }}?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+    {{- end }}
 
   </div>
 
