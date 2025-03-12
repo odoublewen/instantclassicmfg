@@ -12,7 +12,7 @@ class MixTapeBuilder:
 
     def _find_spotify_track(self, track, artist):
         query = f"track:{track} artist:{artist}"
-        LOG.info(f"Search query: '{query}'")
+        LOG.info(f"Searching for {track} {artist}")
         results = self.sp.search(query, type="track", market="US")
         if results['tracks']['items']:
             # print(json.dumps(results['tracks']['items'][0], indent=2))
@@ -38,11 +38,11 @@ class MixTapeBuilder:
         if len(spotify_tracks) < len(tracks) * 0.7:
             LOG.warning(f"Aborting playlist creation because only {len(spotify_tracks)} of {len(tracks)} tracks found")
 
-        new_playlist_name = "Mix Tape (icm-{id}): {title}".format(**tape)
+        new_playlist_name = "{title} - ICM-{id}".format(**tape)
         playlist = self.sp.user_playlist_create(self.username, name=new_playlist_name)
         self.sp.user_playlist_add_tracks(self.username, playlist["id"], tracks=spotify_tracks)
         tape["spotify_playlist"] = playlist["id"]
-        LOG.info(f"Created playlist '{new_playlist_name}' with {len(spotify_tracks)} tracks: {playlist['name']}")
+        LOG.info(f"Created playlist '{new_playlist_name}' with {len(spotify_tracks)} tracks")
 
     def process_tape_list(self, tape_list):
         for tape in tape_list:
