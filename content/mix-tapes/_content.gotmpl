@@ -1,7 +1,7 @@
 {{ range .Site.Data.mix_tapes }}
   {{ $params := dict
     "cover" (dict
-        "image" (fmt.Printf "/images/mix-tapes/%d/liner.jpeg" .id)
+        "image" (fmt.Printf "/images/mix-tapes/%d/liner.jpg" .id)
         "caption" .title
       )
     "tags" .tags
