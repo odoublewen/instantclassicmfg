@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://instantclassicmfg.com/sitemap.xml
