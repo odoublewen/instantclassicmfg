@@ -383,7 +383,7 @@
 - id: 12
   title: 'Blues #11 [7-85]'
   date: 2025-05-25
-  tags: [1980s]
+  tags: [1980s, blues]
   comment: ''
   side_a:
   - I Love the Blues, She Heard My Cry -- George Duke
@@ -410,6 +410,26 @@
   - Long Distance Call -- Muddy Waters
   - Got To Move -- Sonny Boy Williamson
   - Bring It On Home -- Sonny Boy Williamson
-
-
   spotify_playlist: 3MZiPZVOsfiaApVI5f5KpN
+- id: 13
+  title: Van Morrison
+  artist: Van Morrison
+  date: 2025-06-07
+  tags: [1980s, soul]
+  side_a:
+  - Here Comes the Night
+  - Come Running
+  - Moondance
+  - Crazy Love
+  - Caravan
+  - Into the Mystic
+  - Wild Night
+  - The Eternal Kansas City
+  side_b:
+  - Wavelength
+  - Gloria
+  - These Dreams of You
+  - Warm Love
+  - Saint Dominic's Preview
+  - Higher Than the World
+  spotify_playlist: 5ZGL6ZAUazlrJl28urVajS
